@@ -1,0 +1,723 @@
+2019-04-08 20:38:19,828 desired_caps.py [line:37] INFO start app...
+2019-04-08 20:38:50,037 desired_caps.py [line:37] INFO start app...
+2019-04-08 21:16:47,051 desired_caps.py [line:37] INFO start app...
+2019-04-08 21:17:01,688 common_fun.py [line:36] INFO swipeLeft
+2019-04-08 21:17:02,316 common_fun.py [line:50] INFO get lmwudi screenshot
+2019-04-08 21:17:28,757 desired_caps.py [line:37] INFO start app...
+2019-04-08 21:17:46,338 common_fun.py [line:13] INFO =====check cancelBtn=====
+2019-04-08 21:17:47,387 common_fun.py [line:36] INFO swipeLeft
+2019-04-08 21:17:48,021 common_fun.py [line:50] INFO get lmwudi screenshot
+2019-04-08 22:00:55,382 desired_caps.py [line:37] INFO start app...
+2019-04-08 22:01:10,404 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 22:01:11,417 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 22:01:12,863 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 22:01:12,863 loginView.py [line:26] INFO username is: %s, %username
+2019-04-08 22:01:18,387 loginView.py [line:29] INFO password is: %s, %password
+2019-04-08 22:01:23,736 loginView.py [line:32] INFO click loginBtn
+2019-04-08 22:01:24,453 loginView.py [line:34] INFO login finished!
+2019-04-08 22:01:24,454 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 22:01:24,454 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 22:01:34,841 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 22:01:37,386 loginView.py [line:53] INFO close tip_commit
+2019-04-08 22:01:51,163 loginView.py [line:63] ERROR login Fail!
+2019-04-08 22:01:51,164 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-08 22:06:54,809 desired_caps.py [line:37] INFO start app...
+2019-04-08 22:07:09,580 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 22:07:10,704 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 22:07:11,727 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 22:07:11,727 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 22:07:17,821 loginView.py [line:29] INFO password is:65138954
+2019-04-08 22:07:23,287 loginView.py [line:32] INFO click loginBtn
+2019-04-08 22:07:23,995 loginView.py [line:34] INFO login finished!
+2019-04-08 22:07:23,996 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 22:07:23,996 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 22:07:34,061 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 22:07:34,119 loginView.py [line:53] INFO close tip_commit
+2019-04-08 22:07:44,567 loginView.py [line:63] ERROR login Fail!
+2019-04-08 22:07:44,568 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-08 22:13:37,747 desired_caps.py [line:37] INFO start app...
+2019-04-08 22:13:52,889 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 22:13:53,867 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 22:13:57,591 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 22:13:57,591 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 22:14:04,136 loginView.py [line:29] INFO password is:65138954
+2019-04-08 22:14:09,477 loginView.py [line:32] INFO click loginBtn
+2019-04-08 22:14:10,203 loginView.py [line:34] INFO login finished!
+2019-04-08 22:14:10,204 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 22:14:10,204 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 22:14:21,353 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 22:14:42,009 loginView.py [line:63] ERROR login Fail!
+2019-04-08 22:14:42,009 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-08 22:17:19,665 desired_caps.py [line:37] INFO start app...
+2019-04-08 22:17:34,302 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 22:17:35,286 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 22:17:36,246 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 22:17:36,246 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 22:17:41,861 loginView.py [line:29] INFO password is:65138954
+2019-04-08 22:17:47,214 loginView.py [line:32] INFO click loginBtn
+2019-04-08 22:17:47,970 loginView.py [line:34] INFO login finished!
+2019-04-08 22:17:47,970 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 22:17:47,971 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 22:17:58,289 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 22:17:58,331 loginView.py [line:53] INFO close tip_commit
+2019-04-08 22:18:00,148 loginView.py [line:67] INFO login success!
+2019-04-08 22:18:00,148 loginView.py [line:72] INFO =====logout_action=====
+2019-04-08 22:21:32,611 desired_caps.py [line:37] INFO start app...
+2019-04-08 22:21:47,651 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 22:21:48,619 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 22:21:50,016 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 22:21:50,016 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 22:21:55,591 loginView.py [line:29] INFO password is:65138954
+2019-04-08 22:22:01,004 loginView.py [line:32] INFO click loginBtn
+2019-04-08 22:22:01,687 loginView.py [line:34] INFO login finished!
+2019-04-08 22:22:01,688 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 22:22:01,688 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 22:22:12,165 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 22:22:23,386 loginView.py [line:67] INFO login success!
+2019-04-08 22:22:23,386 loginView.py [line:72] INFO =====logout_action=====
+2019-04-08 22:22:39,334 desired_caps.py [line:37] INFO start app...
+2019-04-08 22:22:57,470 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 22:22:58,443 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 22:22:59,364 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 22:22:59,365 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 22:23:04,945 loginView.py [line:29] INFO password is:651389541
+2019-04-08 22:23:10,309 loginView.py [line:32] INFO click loginBtn
+2019-04-08 22:23:10,987 loginView.py [line:34] INFO login finished!
+2019-04-08 22:23:10,987 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 22:23:10,987 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 22:23:21,514 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 22:23:42,134 loginView.py [line:63] ERROR login Fail!
+2019-04-08 22:23:42,135 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-08 23:15:16,985 myunit.py [line:8] INFO =====setUp=====
+2019-04-08 23:15:16,990 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:15:32,351 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-08 23:15:32,351 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-08 23:15:32,352 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:15:33,117 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:15:34,162 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:15:34,162 loginView.py [line:26] INFO username is:liumin
+2019-04-08 23:15:39,739 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:15:45,023 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:15:45,805 loginView.py [line:34] INFO login finished!
+2019-04-08 23:15:45,805 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:15:45,806 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:15:56,353 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 23:16:17,397 loginView.py [line:63] ERROR login Fail!
+2019-04-08 23:16:17,397 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-08 23:16:19,242 myunit.py [line:12] INFO =====tearDown=====
+2019-04-08 23:18:25,928 myunit.py [line:8] INFO =====setUp=====
+2019-04-08 23:18:25,930 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:18:40,474 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-08 23:18:40,474 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-08 23:18:40,476 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:18:41,452 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:18:42,478 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:18:42,478 loginView.py [line:26] INFO username is:liumin
+2019-04-08 23:18:47,983 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:18:53,413 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:18:54,185 loginView.py [line:34] INFO login finished!
+2019-04-08 23:18:54,185 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:18:54,185 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:19:04,267 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 23:19:25,562 loginView.py [line:63] ERROR login Fail!
+2019-04-08 23:19:25,562 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-08 23:19:27,526 myunit.py [line:12] INFO =====tearDown=====
+2019-04-08 23:21:39,172 myunit.py [line:8] INFO =====setUp=====
+2019-04-08 23:21:39,175 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:21:53,737 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-08 23:21:53,737 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-08 23:21:53,739 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:21:54,612 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:21:55,671 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:21:55,672 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 23:22:01,401 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:22:06,730 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:22:07,421 loginView.py [line:34] INFO login finished!
+2019-04-08 23:22:07,421 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:22:07,421 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:22:18,707 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 23:22:30,288 loginView.py [line:67] INFO login success!
+2019-04-08 23:22:30,289 loginView.py [line:72] INFO =====logout_action=====
+2019-04-08 23:22:34,251 myunit.py [line:12] INFO =====tearDown=====
+2019-04-08 23:26:48,972 myunit.py [line:8] INFO =====setUp=====
+2019-04-08 23:26:48,975 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:27:04,074 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-08 23:27:04,074 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-08 23:27:04,075 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:27:04,980 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:27:06,195 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:27:06,195 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 23:27:11,926 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:27:17,268 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:27:17,933 loginView.py [line:34] INFO login finished!
+2019-04-08 23:27:17,933 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:27:17,934 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:27:28,089 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 23:27:39,445 loginView.py [line:67] INFO login success!
+2019-04-08 23:27:39,446 loginView.py [line:72] INFO =====logout_action=====
+2019-04-08 23:27:42,592 myunit.py [line:12] INFO =====tearDown=====
+2019-04-08 23:36:40,604 myunit.py [line:8] INFO =====setUp=====
+2019-04-08 23:36:40,607 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:36:55,097 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-08 23:36:55,098 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-08 23:36:55,100 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:36:56,216 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:36:57,228 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:36:57,228 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 23:37:02,861 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:37:08,161 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:37:08,869 loginView.py [line:34] INFO login finished!
+2019-04-08 23:37:08,869 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:37:08,869 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:37:21,512 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:37:39,679 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:37:40,561 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:37:41,527 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:37:41,527 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 23:37:47,086 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:37:52,410 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:37:53,096 loginView.py [line:34] INFO login finished!
+2019-04-08 23:37:53,096 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:37:53,096 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:38:03,578 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 23:38:03,622 loginView.py [line:53] INFO close tip_commit
+2019-04-08 23:38:05,224 loginView.py [line:67] INFO login success!
+2019-04-08 23:38:05,224 loginView.py [line:72] INFO =====logout_action=====
+2019-04-08 23:41:06,584 myunit.py [line:8] INFO =====setUp=====
+2019-04-08 23:41:06,587 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:41:21,443 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-08 23:41:21,446 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:41:38,974 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:41:39,930 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:41:42,276 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:41:42,276 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 23:41:47,771 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:41:53,081 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:41:53,763 loginView.py [line:34] INFO login finished!
+2019-04-08 23:41:53,764 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:41:53,764 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:42:04,164 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 23:42:15,091 loginView.py [line:67] INFO login success!
+2019-04-08 23:42:15,091 loginView.py [line:72] INFO =====logout_action=====
+2019-04-08 23:42:18,951 myunit.py [line:12] INFO =====tearDown=====
+2019-04-08 23:44:37,938 myunit.py [line:8] INFO =====setUp=====
+2019-04-08 23:44:37,941 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:44:52,621 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-08 23:44:52,627 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:45:09,922 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:45:10,870 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:45:12,028 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:45:12,028 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 23:45:17,643 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:45:23,027 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:45:23,739 loginView.py [line:34] INFO login finished!
+2019-04-08 23:45:23,740 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:45:23,740 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:45:34,090 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 23:45:45,445 loginView.py [line:67] INFO login success!
+2019-04-08 23:45:45,445 loginView.py [line:72] INFO =====logout_action=====
+2019-04-08 23:45:49,875 myunit.py [line:12] INFO =====tearDown=====
+2019-04-08 23:47:04,169 myunit.py [line:8] INFO =====setUp=====
+2019-04-08 23:47:04,172 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:47:18,886 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-08 23:47:18,889 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:48:39,011 myunit.py [line:8] INFO =====setUp=====
+2019-04-08 23:48:39,014 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:48:54,170 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-08 23:48:54,170 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:48:55,229 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:48:56,793 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:48:56,793 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 23:49:02,351 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:49:07,670 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:49:08,377 loginView.py [line:34] INFO login finished!
+2019-04-08 23:49:08,377 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:49:08,377 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:49:18,769 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 23:49:30,038 loginView.py [line:67] INFO login success!
+2019-04-08 23:49:30,039 loginView.py [line:72] INFO =====logout_action=====
+2019-04-08 23:49:33,259 myunit.py [line:12] INFO =====tearDown=====
+2019-04-08 23:53:23,592 myunit.py [line:9] INFO =====setUp=====
+2019-04-08 23:53:23,595 desired_caps.py [line:37] INFO start app...
+2019-04-08 23:53:38,282 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-08 23:53:38,282 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-08 23:53:38,284 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-08 23:53:39,223 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-08 23:53:40,231 loginView.py [line:25] INFO =====login_action=====
+2019-04-08 23:53:40,231 loginView.py [line:26] INFO username is:liumin321
+2019-04-08 23:53:45,855 loginView.py [line:29] INFO password is:65138954
+2019-04-08 23:53:51,136 loginView.py [line:32] INFO click loginBtn
+2019-04-08 23:53:51,835 loginView.py [line:34] INFO login finished!
+2019-04-08 23:53:51,835 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-08 23:53:51,835 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-08 23:54:02,181 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-08 23:54:13,114 loginView.py [line:67] INFO login success!
+2019-04-08 23:54:13,114 loginView.py [line:72] INFO =====logout_action=====
+2019-04-08 23:54:16,110 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 00:00:51,800 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 00:00:51,803 desired_caps.py [line:37] INFO start app...
+2019-04-09 00:01:06,762 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 00:01:06,762 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 00:01:06,764 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 00:01:07,706 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 00:01:09,062 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 00:01:09,062 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 00:01:14,957 loginView.py [line:29] INFO password is:651389541
+2019-04-09 00:01:20,446 loginView.py [line:32] INFO click loginBtn
+2019-04-09 00:01:21,127 loginView.py [line:34] INFO login finished!
+2019-04-09 00:01:21,128 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 00:01:21,128 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 00:01:31,180 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 00:01:52,300 loginView.py [line:63] ERROR login Fail!
+2019-04-09 00:01:52,301 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-09 00:01:54,143 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 10:08:21,003 run.py [line:15] INFO start run test case.....
+2019-04-09 10:08:21,025 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 10:08:21,028 desired_caps.py [line:37] INFO start app...
+2019-04-09 10:09:24,923 run.py [line:15] INFO start run test case.....
+2019-04-09 10:09:24,923 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 10:09:24,926 desired_caps.py [line:37] INFO start app...
+2019-04-09 10:09:48,330 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 10:09:48,330 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 10:09:48,341 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 10:09:48,788 common_fun.py [line:21] INFO no cancel
+2019-04-09 10:09:48,788 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 10:09:49,770 common_fun.py [line:30] INFO no skipBtn
+2019-04-09 10:09:49,770 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 10:09:49,770 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 10:09:49,846 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 10:35:30,365 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 10:35:30,368 desired_caps.py [line:37] INFO start app...
+2019-04-09 10:35:45,139 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 10:35:45,139 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 10:35:45,141 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 10:35:46,786 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 10:35:48,231 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 10:35:48,231 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 10:35:53,986 loginView.py [line:29] INFO password is:65138954
+2019-04-09 10:35:59,552 loginView.py [line:32] INFO click loginBtn
+2019-04-09 10:36:00,430 loginView.py [line:34] INFO login finished!
+2019-04-09 10:36:00,430 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 10:36:00,430 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 10:36:08,226 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 10:36:12,073 loginView.py [line:67] INFO login success!
+2019-04-09 10:36:12,074 loginView.py [line:72] INFO =====logout_action=====
+2019-04-09 10:36:17,985 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 10:38:44,944 run.py [line:15] INFO start run test case.....
+2019-04-09 10:38:44,944 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 10:38:44,947 desired_caps.py [line:37] INFO start app...
+2019-04-09 10:38:59,297 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 10:38:59,298 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 10:38:59,299 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 10:39:00,567 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 10:39:01,723 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 10:39:01,723 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 10:39:07,636 loginView.py [line:29] INFO password is:65138954
+2019-04-09 10:39:13,600 loginView.py [line:32] INFO click loginBtn
+2019-04-09 10:39:14,309 loginView.py [line:34] INFO login finished!
+2019-04-09 10:39:14,309 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 10:39:14,309 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 10:39:19,136 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 10:39:21,786 loginView.py [line:67] INFO login success!
+2019-04-09 10:39:21,786 loginView.py [line:72] INFO =====logout_action=====
+2019-04-09 10:39:27,459 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 10:41:20,468 run.py [line:15] INFO start run test case.....
+2019-04-09 10:41:20,469 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 10:41:20,471 desired_caps.py [line:37] INFO start app...
+2019-04-09 10:41:35,221 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 10:41:35,221 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 10:41:35,223 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 10:41:35,682 common_fun.py [line:21] INFO no cancel
+2019-04-09 10:41:35,683 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 10:41:36,603 common_fun.py [line:30] INFO no skipBtn
+2019-04-09 10:41:36,604 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 10:41:36,604 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 10:41:36,670 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 11:18:33,907 run.py [line:15] INFO start run test case.....
+2019-04-09 11:18:33,907 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 11:18:33,909 desired_caps.py [line:37] INFO start app...
+2019-04-09 11:18:53,150 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 11:18:53,150 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 11:18:53,152 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 11:18:53,992 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 11:18:55,671 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 11:18:55,671 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 11:19:01,955 loginView.py [line:29] INFO password is:65138954
+2019-04-09 11:19:07,406 loginView.py [line:32] INFO click loginBtn
+2019-04-09 11:19:08,164 loginView.py [line:34] INFO login finished!
+2019-04-09 11:19:08,165 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 11:19:08,165 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 11:19:14,749 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 11:19:18,429 loginView.py [line:67] INFO login success!
+2019-04-09 11:19:18,429 loginView.py [line:72] INFO =====logout_action=====
+2019-04-09 11:19:24,288 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 11:20:41,264 run.py [line:15] INFO start run test case.....
+2019-04-09 11:20:41,264 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 11:20:41,266 desired_caps.py [line:37] INFO start app...
+2019-04-09 11:20:56,549 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 11:20:56,549 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 11:20:56,550 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 11:20:58,064 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 11:20:59,449 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 11:20:59,449 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 11:21:05,362 loginView.py [line:29] INFO password is:651389541
+2019-04-09 11:21:11,036 loginView.py [line:32] INFO click loginBtn
+2019-04-09 11:21:11,800 loginView.py [line:34] INFO login finished!
+2019-04-09 11:21:11,800 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 11:21:11,800 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 11:21:12,490 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 11:21:12,880 loginView.py [line:63] ERROR login Fail!
+2019-04-09 11:21:12,880 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-09 11:21:15,111 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 12:38:16,245 run.py [line:15] INFO start run test case.....
+2019-04-09 12:38:16,245 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 12:38:16,248 desired_caps.py [line:37] INFO start app...
+2019-04-09 12:38:37,871 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 12:38:37,872 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 12:38:37,874 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 12:38:38,092 common_fun.py [line:21] INFO no cancel
+2019-04-09 12:38:38,092 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 12:38:38,206 common_fun.py [line:30] INFO no skipBtn
+2019-04-09 12:38:38,206 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 12:38:38,206 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 12:38:38,289 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 12:39:13,384 run.py [line:15] INFO start run test case.....
+2019-04-09 12:39:13,385 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 12:39:13,388 desired_caps.py [line:37] INFO start app...
+2019-04-09 12:39:32,290 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 12:39:32,290 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 12:39:32,293 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 12:39:33,575 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 12:39:34,803 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 12:39:34,803 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 12:39:40,687 loginView.py [line:29] INFO password is:651389541
+2019-04-09 12:39:46,301 loginView.py [line:32] INFO click loginBtn
+2019-04-09 12:39:47,011 loginView.py [line:34] INFO login finished!
+2019-04-09 12:39:47,012 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 12:39:47,012 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 12:39:47,775 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 12:39:48,080 loginView.py [line:63] ERROR login Fail!
+2019-04-09 12:39:48,080 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-09 12:39:49,920 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 12:40:00,245 run.py [line:15] INFO start run test case.....
+2019-04-09 12:40:00,245 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 12:40:00,248 desired_caps.py [line:37] INFO start app...
+2019-04-09 12:40:18,937 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 12:40:18,937 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 12:40:18,939 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 12:40:20,165 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 12:40:22,140 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 12:40:22,140 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 12:40:28,050 loginView.py [line:29] INFO password is:651389541
+2019-04-09 12:40:33,599 loginView.py [line:32] INFO click loginBtn
+2019-04-09 12:40:34,295 loginView.py [line:34] INFO login finished!
+2019-04-09 12:40:34,295 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 12:40:34,295 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 12:40:35,013 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 12:40:35,193 loginView.py [line:63] ERROR login Fail!
+2019-04-09 12:40:35,193 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-09 12:40:37,557 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 12:40:54,396 run.py [line:15] INFO start run test case.....
+2019-04-09 12:40:54,396 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 12:40:54,399 desired_caps.py [line:37] INFO start app...
+2019-04-09 12:41:10,853 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 12:41:10,853 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 12:41:10,855 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 12:41:12,195 common_fun.py [line:21] INFO no cancel
+2019-04-09 12:41:12,195 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 12:41:12,272 common_fun.py [line:30] INFO no skipBtn
+2019-04-09 12:41:12,273 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 12:41:12,273 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 12:41:17,522 loginView.py [line:29] INFO password is:651389541
+2019-04-09 12:41:23,441 loginView.py [line:32] INFO click loginBtn
+2019-04-09 12:41:24,189 loginView.py [line:34] INFO login finished!
+2019-04-09 12:41:24,189 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 12:41:24,189 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 12:41:24,914 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 12:41:25,143 loginView.py [line:63] ERROR login Fail!
+2019-04-09 12:41:25,143 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-09 12:41:26,931 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 12:42:08,189 run.py [line:15] INFO start run test case.....
+2019-04-09 12:42:08,189 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 12:42:08,193 desired_caps.py [line:37] INFO start app...
+2019-04-09 12:42:27,071 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 12:42:27,072 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 12:42:27,073 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 12:42:28,215 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 12:42:29,455 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 12:42:29,455 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 12:42:35,432 loginView.py [line:29] INFO password is:651389541
+2019-04-09 12:42:41,509 loginView.py [line:32] INFO click loginBtn
+2019-04-09 12:42:42,225 loginView.py [line:34] INFO login finished!
+2019-04-09 12:42:42,225 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 12:42:42,226 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 12:42:42,928 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 12:42:43,240 loginView.py [line:63] ERROR login Fail!
+2019-04-09 12:42:43,240 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-09 12:42:45,166 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 15:57:29,287 run.py [line:15] INFO start run test case.....
+2019-04-09 15:57:29,306 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 15:57:29,320 desired_caps.py [line:37] INFO start app...
+2019-04-09 15:57:46,441 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 15:57:46,441 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 15:57:46,469 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 15:57:46,752 common_fun.py [line:21] INFO no cancel
+2019-04-09 15:57:46,752 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 15:57:46,950 common_fun.py [line:30] INFO no skipBtn
+2019-04-09 15:57:46,950 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 15:57:46,950 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 15:57:46,996 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:06:48,605 run.py [line:15] INFO start run test case.....
+2019-04-09 16:06:48,617 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:06:48,620 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:06:58,534 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 16:06:58,534 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 16:06:58,536 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 16:06:59,908 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 16:07:01,227 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:07:01,227 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:07:06,849 loginView.py [line:29] INFO password is:651389541
+2019-04-09 16:07:12,196 loginView.py [line:32] INFO click loginBtn
+2019-04-09 16:07:12,875 loginView.py [line:34] INFO login finished!
+2019-04-09 16:07:12,876 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 16:07:12,876 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 16:07:13,598 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 16:07:13,670 loginView.py [line:63] ERROR login Fail!
+2019-04-09 16:07:13,670 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-09 16:07:14,621 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:07:27,242 run.py [line:15] INFO start run test case.....
+2019-04-09 16:07:27,242 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:07:27,246 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:07:38,129 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 16:07:38,130 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 16:07:38,131 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 16:07:39,309 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 16:07:40,324 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:07:40,324 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:07:45,827 loginView.py [line:29] INFO password is:651389541
+2019-04-09 16:07:51,120 loginView.py [line:32] INFO click loginBtn
+2019-04-09 16:07:51,797 loginView.py [line:34] INFO login finished!
+2019-04-09 16:07:51,797 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 16:07:51,797 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 16:07:52,438 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 16:07:52,583 loginView.py [line:63] ERROR login Fail!
+2019-04-09 16:07:52,583 common_fun.py [line:54] INFO get login fail screenshot
+2019-04-09 16:07:53,394 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:08:03,697 run.py [line:15] INFO start run test case.....
+2019-04-09 16:08:03,697 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:08:03,700 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:08:14,924 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 16:08:14,924 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 16:08:14,927 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 16:08:15,216 common_fun.py [line:21] INFO no cancel
+2019-04-09 16:08:15,216 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 16:08:15,250 common_fun.py [line:30] INFO no skipBtn
+2019-04-09 16:08:15,250 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:08:15,250 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:08:15,283 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:18:03,937 run.py [line:19] INFO start run test case.....
+2019-04-09 16:18:03,938 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:18:03,941 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:18:13,818 test_login.py [line:11] INFO =====test_login_1=====
+2019-04-09 16:18:13,819 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 16:18:13,820 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 16:18:14,266 common_fun.py [line:21] INFO no cancel
+2019-04-09 16:18:14,267 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 16:18:14,320 common_fun.py [line:30] INFO no skipBtn
+2019-04-09 16:18:14,320 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:18:14,321 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:18:14,363 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:21:52,143 run.py [line:19] INFO start run test case.....
+2019-04-09 16:21:52,143 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:21:52,147 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:22:00,951 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:22:00,951 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 16:22:00,953 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 16:22:01,255 common_fun.py [line:21] INFO no cancel
+2019-04-09 16:22:01,255 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 16:22:01,353 common_fun.py [line:30] INFO no skipBtn
+2019-04-09 16:22:01,354 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:22:01,354 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:22:01,416 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:24:03,405 run.py [line:19] INFO start run test case.....
+2019-04-09 16:24:03,405 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:24:03,408 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:24:12,516 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:24:12,517 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 16:24:12,520 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 16:24:13,665 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 16:24:14,665 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:24:14,665 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:24:20,272 loginView.py [line:29] INFO password is:65138954
+2019-04-09 16:24:25,536 loginView.py [line:32] INFO click loginBtn
+2019-04-09 16:24:26,267 loginView.py [line:34] INFO login finished!
+2019-04-09 16:24:26,267 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 16:24:26,285 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 16:24:30,949 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 16:24:32,497 loginView.py [line:67] INFO login success!
+2019-04-09 16:24:32,497 loginView.py [line:72] INFO =====logout_action=====
+2019-04-09 16:24:36,886 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:24:43,409 run.py [line:19] INFO start run test case.....
+2019-04-09 16:24:43,410 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:24:43,414 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:24:54,944 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:24:54,944 common_fun.py [line:68] INFO =====get_csv_data=====
+2019-04-09 16:24:54,945 common_fun.py [line:17] INFO =====check cancelBtn=====
+2019-04-09 16:24:55,316 common_fun.py [line:21] INFO no cancel
+2019-04-09 16:24:55,316 common_fun.py [line:26] INFO =====check skipBtn=====
+2019-04-09 16:24:55,371 common_fun.py [line:30] INFO no skipBtn
+2019-04-09 16:24:55,371 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:24:55,371 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:24:55,388 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:29:55,260 run.py [line:19] INFO start run test case.....
+2019-04-09 16:29:55,261 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:29:55,265 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:30:04,456 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:30:04,457 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 16:30:04,458 common_fun.py [line:18] INFO =====check cancelBtn=====
+2019-04-09 16:30:04,458 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:30:25,270 run.py [line:19] INFO start run test case.....
+2019-04-09 16:30:25,270 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:30:25,274 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:30:35,402 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:30:35,402 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 16:30:35,403 common_fun.py [line:18] INFO =====check cancelBtn=====
+2019-04-09 16:30:35,403 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:39:55,682 run.py [line:19] INFO start run test case.....
+2019-04-09 16:39:55,683 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:39:55,685 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:40:04,139 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:40:04,139 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 16:40:04,141 common_fun.py [line:18] INFO =====check cancelBtn=====
+2019-04-09 16:40:04,141 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:45:10,475 run.py [line:19] INFO start run test case.....
+2019-04-09 16:45:10,475 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:45:10,477 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:45:18,953 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:45:18,953 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 16:45:18,954 common_fun.py [line:18] INFO =====check cancelBtn=====
+2019-04-09 16:45:21,278 common_fun.py [line:28] INFO =====check skipBtn=====
+2019-04-09 16:45:22,256 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:45:22,256 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:45:27,629 loginView.py [line:29] INFO password is:65138954
+2019-04-09 16:45:39,017 run.py [line:19] INFO start run test case.....
+2019-04-09 16:45:39,017 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:45:39,020 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:45:50,067 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:45:50,067 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 16:45:50,068 common_fun.py [line:18] INFO =====check cancelBtn=====
+2019-04-09 16:45:51,237 common_fun.py [line:28] INFO =====check skipBtn=====
+2019-04-09 16:45:52,305 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:45:52,305 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:45:57,695 loginView.py [line:29] INFO password is:65138954
+2019-04-09 16:46:02,907 loginView.py [line:32] INFO click loginBtn
+2019-04-09 16:46:03,577 loginView.py [line:34] INFO login finished!
+2019-04-09 16:46:03,577 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 16:46:03,577 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 16:46:05,918 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 16:46:08,708 loginView.py [line:67] INFO login success!
+2019-04-09 16:46:08,708 loginView.py [line:72] INFO =====logout_action=====
+2019-04-09 16:46:13,137 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:46:54,279 run.py [line:19] INFO start run test case.....
+2019-04-09 16:46:54,280 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:46:54,288 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:47:05,746 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:47:05,746 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 16:47:05,748 common_fun.py [line:18] INFO =====check cancelBtn=====
+2019-04-09 16:47:06,627 common_fun.py [line:28] INFO =====check skipBtn=====
+2019-04-09 16:47:07,590 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:47:07,590 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:47:13,066 loginView.py [line:29] INFO password is:65138954
+2019-04-09 16:47:18,380 loginView.py [line:32] INFO click loginBtn
+2019-04-09 16:47:19,151 loginView.py [line:34] INFO login finished!
+2019-04-09 16:47:19,152 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 16:47:19,153 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 16:47:21,578 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 16:47:22,861 loginView.py [line:67] INFO login success!
+2019-04-09 16:47:22,861 loginView.py [line:72] INFO =====logout_action=====
+2019-04-09 16:47:26,950 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:47:43,881 run.py [line:19] INFO start run test case.....
+2019-04-09 16:47:51,313 run.py [line:19] INFO start run test case.....
+2019-04-09 16:50:14,600 run.py [line:19] INFO start run test case.....
+2019-04-09 16:50:14,601 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:50:14,603 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:50:25,734 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:50:25,735 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 16:50:25,737 common_fun.py [line:18] INFO =====check cancelBtn=====
+2019-04-09 16:50:26,751 common_fun.py [line:28] INFO =====check skipBtn=====
+2019-04-09 16:50:27,619 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:50:27,620 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:50:33,089 loginView.py [line:29] INFO password is:65138954
+2019-04-09 16:50:38,330 loginView.py [line:32] INFO click loginBtn
+2019-04-09 16:50:38,988 loginView.py [line:34] INFO login finished!
+2019-04-09 16:50:38,989 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 16:50:38,990 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 16:50:41,122 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 16:50:42,956 loginView.py [line:67] INFO login success!
+2019-04-09 16:50:42,957 loginView.py [line:72] INFO =====logout_action=====
+2019-04-09 16:50:47,389 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 16:52:16,329 run.py [line:19] INFO start run test case.....
+2019-04-09 16:58:14,011 run.py [line:19] INFO start run test case.....
+2019-04-09 16:58:14,011 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 16:58:14,014 desired_caps.py [line:37] INFO start app...
+2019-04-09 16:58:23,274 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 16:58:23,275 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 16:58:23,276 common_fun.py [line:18] INFO =====check cancelBtn=====
+2019-04-09 16:58:24,193 common_fun.py [line:28] INFO =====check skipBtn=====
+2019-04-09 16:58:25,858 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 16:58:25,858 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 16:58:31,220 loginView.py [line:29] INFO password is:65138954
+2019-04-09 16:58:36,443 loginView.py [line:32] INFO click loginBtn
+2019-04-09 16:58:37,090 loginView.py [line:34] INFO login finished!
+2019-04-09 16:58:37,090 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 16:58:37,090 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 16:58:39,112 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 16:58:40,604 loginView.py [line:67] INFO login success!
+2019-04-09 16:58:40,605 loginView.py [line:72] INFO =====logout_action=====
+2019-04-09 16:58:46,479 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 17:00:40,697 desired_caps.py [line:37] INFO start app...
+2019-04-09 17:08:53,797 run.py [line:19] INFO start run test case.....
+2019-04-09 17:09:10,421 run.py [line:19] INFO start run test case.....
+2019-04-09 17:09:10,422 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 17:09:10,424 desired_caps.py [line:37] INFO start app...
+2019-04-09 17:14:02,203 run.py [line:19] INFO start run test case.....
+2019-04-09 17:14:02,203 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 17:14:02,206 desired_caps.py [line:37] INFO start app...
+2019-04-09 17:14:11,271 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 17:14:11,271 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 17:14:11,274 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 17:14:45,302 run.py [line:19] INFO start run test case.....
+2019-04-09 17:14:45,302 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 17:14:45,305 desired_caps.py [line:37] INFO start app...
+2019-04-09 17:14:56,594 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 17:14:56,594 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 17:14:56,595 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 17:16:17,187 run.py [line:19] INFO start run test case.....
+2019-04-09 17:16:17,187 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 17:16:17,190 desired_caps.py [line:37] INFO start app...
+2019-04-09 17:16:25,959 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 17:16:25,959 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 17:16:25,961 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 17:17:22,376 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 17:17:22,378 desired_caps.py [line:37] INFO start app...
+2019-04-09 17:17:33,092 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 17:17:33,092 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 17:17:33,093 myunit.py [line:13] INFO =====tearDown=====
+2019-04-09 17:18:38,953 run.py [line:19] INFO start run test case.....
+2019-04-09 17:18:38,953 myunit.py [line:9] INFO =====setUp=====
+2019-04-09 17:18:38,956 desired_caps.py [line:37] INFO start app...
+2019-04-09 17:18:49,329 test_login.py [line:12] INFO =====test_login_1=====
+2019-04-09 17:18:49,330 common_fun.py [line:70] INFO =====get_csv_data=====
+2019-04-09 17:18:49,331 common_fun.py [line:18] INFO =====check cancelBtn=====
+2019-04-09 17:18:50,498 common_fun.py [line:28] INFO =====check skipBtn=====
+2019-04-09 17:18:51,856 loginView.py [line:25] INFO =====login_action=====
+2019-04-09 17:18:51,856 loginView.py [line:26] INFO username is:liumin321
+2019-04-09 17:18:57,374 loginView.py [line:29] INFO password is:65138954
+2019-04-09 17:19:02,625 loginView.py [line:32] INFO click loginBtn
+2019-04-09 17:19:03,273 loginView.py [line:34] INFO login finished!
+2019-04-09 17:19:03,273 loginView.py [line:56] INFO =====check_loginStatus=====
+2019-04-09 17:19:03,273 loginView.py [line:37] INFO =====check_market_ad=====
+2019-04-09 17:19:05,407 loginView.py [line:47] INFO =====check_account_alert=====
+2019-04-09 17:19:06,989 loginView.py [line:67] INFO login success!
+2019-04-09 17:19:06,989 loginView.py [line:72] INFO =====logout_action=====
+2019-04-09 17:19:10,610 myunit.py [line:13] INFO =====tearDown=====
